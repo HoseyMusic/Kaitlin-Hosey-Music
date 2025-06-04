@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kaitlin Hosey | Horn</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Kaitlin Hosey</h1>
+      <p>Horn | Educator | Performer</p>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#media">Media</a></li>
+          <li><a href="#performances">Performances</a></li>
+          <li><a href="#teaching">Teaching</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="about" class="section">
+      <div class="container">
+        <h2>About Kaitlin</h2>
+        <p>Kaitlin Hosey is an Assistant Professor of Horn at William Carey University. As both an educator and performer, she is passionate about developing the next generation of brass musicians while maintaining an active presence in the classical music community.</p>
+      </div>
+    </section>
+
+    <section id="media" class="section dark">
+      <div class="container">
+        <h2>Media</h2>
+        <p>Photos and performance videos coming soon.</p>
+      </div>
+    </section>
+
+    <section id="performances" class="section">
+      <div class="container">
+        <h2>Performances</h2>
+        <p>No upcoming concerts currently scheduled. Please check back soon.</p>
+      </div>
+    </section>
+
+    <section id="teaching" class="section dark">
+      <div class="container">
+        <h2>Teaching</h2>
+        <p>As Assistant Professor at William Carey University, Kaitlin offers individual horn instruction, ensemble coaching, and workshops focused on technique and musicality.</p>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+        <p>Follow Kaitlin on social media: [Insert links here]</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Kaitlin Hosey. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
